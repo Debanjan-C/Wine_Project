@@ -2,7 +2,7 @@
 ![alt text](https://github.com/Sandeep-Bansal1/Data_Analysis_ML/blob/master/wine%20cover.png?raw=true)
 
 <pre>
-Contributors : <a Sandeep Bansal </a>
+Contributors : <ahttps://github.com/Sandeep-Bansal1</a>
 </pre>
 
 <pre>
