@@ -43,7 +43,11 @@ Research Article: https://www.scitepress.org/Papers/2015/55519/55519.pdf
 | alcohol               | alcohol content in ml                                    |
 | quality               | Output Variable - score between 0 and 10                 |
 
-## Primary findings/conclusions/recommendations
+## Primary findings
+
+- After calculating the $R^2$ value it shows 37.8 % of the variability in wine quality can be explained by x features which is not a relaiable indicator of the y variable The graph above shows a non-linear relationship of the model in comparison to the data points. 
 
 
 ## Next steps
+
+- My next steps would be to analyze and reduce the outliers in the data. Outliers can disrupt results and skew data. I would also like to try increasing the quantitative number in which the features were picked.Above I used a threshold of 0.05. I ponder if increasing this value would have an impact on the model.  
