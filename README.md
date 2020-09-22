@@ -51,3 +51,12 @@ Research Article: https://www.scitepress.org/Papers/2015/55519/55519.pdf
 ## Next steps
 
 - My next steps would be to analyze and reduce the outliers in the data. Outliers can disrupt results and skew data. I would also like to try increasing the quantitative number in which the features were picked.Above I used a threshold of 0.05. I ponder if increasing this value would have an impact on the model.  
+
+
+## Resources & Special Thanks to: 
+
+1. Dataset:  https://archive.ics.uci.edu/ml/datasets/wine+quality
+2. Akhilesh Rai: https://towardsdatascience.com/linear-regression-and-a-quality-bottle-of-wine-b053ab768a53
+3. Apoorva Dave https://medium.com/datadriveninvestor/regression-from-scratch-wine-quality-prediction-d61195cb91c8
+4. Cover Photo: Google Images
+5. Murat Guner: Linear Regression methodology https://github.com/mguner/UMBC_DATA602/blob/master/week-3/Lecture/Linear%20Regression.ipynb
