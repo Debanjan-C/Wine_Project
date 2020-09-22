@@ -19,14 +19,13 @@ Assignment Submitted     : September 2020
 Dataset: https://archive.ics.uci.edu/ml/datasets/wine+quality
 
 </pre>
+## Buisness Objective:
+The goal is to predict quality of wine amongst the list of red wines using Linear Regression. The dataset consists of the information about physicochemical tests on the different varieties of wines. Various variables present in the dataset includes data of fixed acidity, volatile acidity, citric acid, ph, alcohol etc. The dataset comprises of (red wine - 1599 observations with 12 columns. Below is a table showing names of all the columns and their description.
 
-## Background: 
-This work aims at the prediction of wine preferences from physicochemical properties tests that are available at the wine quality certification step
+This work was inspired by Àngela Nebot, Francisco Mugica1 Antoni Escobet in an attempt to predict wine preferences from physicochemical properties tests that are available at the wine quality certification step.
 
 Research Article: https://www.scitepress.org/Papers/2015/55519/55519.pdf
 
-## Buisness Objective:
-The goal is to predict quality of wine amongst the list of red wines using Linear Regression. The dataset consists of the information about physicochemical tests on the different varieties of wines. Various variables present in the dataset includes data of fixed acidity, volatile acidity, citric acid, ph, alcohol etc. The dataset comprises of (red wine - 1599 observations with 12 columns. Below is a table showing names of all the columns and their description.
 
 ## Data Dictionary:
 | Column Name           | Description                                              |
@@ -44,4 +43,7 @@ The goal is to predict quality of wine amongst the list of red wines using Linea
 | alcohol               | alcohol content in ml                                    |
 | quality               | Output Variable - score between 0 and 10                 |
 
+## Primary findings/conclusions/recommendations
 
+
+## Next steps
