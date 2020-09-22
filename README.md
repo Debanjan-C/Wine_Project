@@ -1,3 +1,2 @@
-![alt text](https://github.com/Sandeep-Bansal1/Data_Analysis_ML/blob/master/wine%20cover.jpg?raw=true)
-
+![alt text]
 # Data_Analysis_ML
