@@ -20,10 +20,10 @@ Dataset: https://archive.ics.uci.edu/ml/datasets/wine+quality
 
 </pre>
 
-## Introduction
+## Buisness Objective:
 The goal is to predict quality of wine amongst the list of red wines using Linear Regression. The dataset consists of the information about physicochemical tests on the different varieties of wines. Various variables present in the dataset includes data of fixed acidity, volatile acidity, citric acid, ph, alcohol etc. The dataset comprises of (red wine - 1599 observations with 12 columns. Below is a table showing names of all the columns and their description.
 
-## Data Dictionary
+## Data Dictionary:
 | Column Name           | Description                                              |
 | -------------         |-------------                                             | 
 | fixed acidity         | Fixed acidity content                                    | 
