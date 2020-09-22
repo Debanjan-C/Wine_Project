@@ -45,7 +45,7 @@ Research Article: https://www.scitepress.org/Papers/2015/55519/55519.pdf
 
 ## Primary findings
 
-- After calculating the $R^2$ value it shows 37.8 % of the variability in wine quality can be explained by x features which is not a relaiable indicator of the y variable The graph above shows a non-linear relationship of the model in comparison to the data points. 
+- After calculating the R^2 value it shows 37.8 % of the variability in wine quality can be explained by x features which is not a relaiable indicator of the y variable The graph above shows a non-linear relationship of the model in comparison to the data points. 
 
 
 ## Next steps
