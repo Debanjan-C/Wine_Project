@@ -57,6 +57,9 @@ Research Article: https://www.scitepress.org/Papers/2015/55519/55519.pdf
 
 - My next steps would be to analyze and reduce the outliers in the data. Outliers can disrupt results and skew data. I would also like to try increasing the quantitative number in which the features were picked.Above I used a threshold of 0.05. I ponder if increasing this value would have an impact on the model.  
 
+## Next Step Results:
+
+After using Random Forrest Classifier we were able to get a more accurate model than Logistic Regression. 
 
 ## Resources & Special Thanks to: 
 
