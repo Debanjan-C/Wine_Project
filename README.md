@@ -13,8 +13,10 @@ Libraries    : pandas, matplotlib, numpy, sklearn, seaborn
 
 <pre>
 Assignment Submitted     : September 2020
+Next Steps Folowed up   : October 2020
 </pre>
-Next Steps Follow up: October 2020
+
+
 <pre>
 Dataset: https://archive.ics.uci.edu/ml/datasets/wine+quality
 
