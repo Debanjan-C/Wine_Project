@@ -12,7 +12,7 @@ Libraries    : pandas, matplotlib, numpy, sklearn, seaborn
 </pre>
 
 <pre>
-Assignment Submitted     : September 2020
+Assignment Submitted    : September 2020
 Next Steps Folowed up   : October 2020
 </pre>
 
